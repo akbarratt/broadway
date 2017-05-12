@@ -5,6 +5,9 @@ body {
 
 header {
   background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 h1 {
@@ -39,6 +42,9 @@ li {
 
 .design {
   background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .design h3 {
